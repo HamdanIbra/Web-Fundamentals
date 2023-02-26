@@ -1,0 +1,36 @@
+.button1{
+    color:#00d1b2;
+    border-color: #00d1b2;
+    border-radius:100px;
+    padding-right: 30px;
+    padding-left: 30px;
+    width: 140px;
+    height: 30px;
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    
+}
+.button2{
+    background-color: #00d1b2;
+    color: white;
+    border-radius: 50%;
+    border-color: #00d1b2;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width: 30px;
+    height: 30px;
+    font-size: larger;
+
+}
+.button3{
+    background-color: hsl(215deg 77% 53%);
+    color: white;
+    margin-left: 30px;
+    border-color: black;
+    box-shadow: 10px 5px 5px hsl(213, 58%, 4%);
+    width: 180px;
+    height: 45px;
+
+
+}

@@ -1,0 +1,56 @@
+.blue{
+    background-color: aqua;
+    width: 70%;
+    height: 150px;
+    border: 2px solid aqua;
+}
+img{
+    height: 150px;
+    margin-top: 75px;
+    margin-left: 35px;
+
+}
+.white{
+    width: 70%;
+    border: 2px solid silver;
+    height: 330px;
+    
+}
+h1{
+    margin-top: 90px;
+    margin-left: 35px;
+    margin-bottom: 5px;
+}
+.pin{
+    height: 20px;
+    width: 20px;
+    margin-top: 0px;
+}
+.user{
+    margin-left: 35px;
+
+}
+.user2{
+    margin-left: 35px;
+}
+.gear{
+    height: 20px;
+    width: 20px;
+}
+.div3{
+    margin-top: 0px;
+    position: relative;
+    bottom: 80px;
+    font-size: larger;
+}
+.main{
+    margin: 0px auto;
+    position: relative;
+    left: 15%;
+}
+a{
+    margin-left: 10px;
+}
+
+
+

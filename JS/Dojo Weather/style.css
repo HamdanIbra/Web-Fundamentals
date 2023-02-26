@@ -1,0 +1,94 @@
+
+.bluetop{
+    background-color: #9fc5f8;
+}
+.topnav{
+    width: 40%;
+    display: flex;
+    color: white;
+    
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.topnavr{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.topnavr h2{
+margin-right: 20px;
+}
+.topnavr h2 a{
+    color: white;
+    text-decoration: none;
+}
+.container {
+    width: 40%;
+    margin: 0 auto;
+}
+.row1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid black;
+}
+.days{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.day{
+    width: 20%;
+    background-color: #eeeeee;
+    padding-top: 1px;
+    
+}
+.day img{
+    border: 1px solid white ;
+    border-radius:50% ;
+    width: 70%;
+    margin-left: 18px;
+    
+}
+.temp {
+    display: flex;
+    justify-content: space-around;
+}
+.day p,.day h3{
+    text-align: center ;
+}
+.red{
+color: #ce2b28;
+}
+.blue{
+    color: #2b78e4;
+}
+.cookie{
+    display: flex;
+    border: 3px solid black;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #eeeeee;
+    position: fixed ;
+    bottom: 0px;
+    width: 40%;
+}
+.cookie p{
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.cookie h4{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    
+}
+.cookie button{
+    background-color:#9fc5f8 ;
+    box-shadow: 4px 2px 2px black;
+}
+.cookie a {
+    color: #22649e;
+}

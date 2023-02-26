@@ -1,0 +1,30 @@
+.nav{
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-end;    
+    align-items: center;
+    padding-left: 20px;
+    padding-right:20px ;
+    background-color: #333333;
+}
+.nav-title{
+    color: white;
+    flex: 1;
+}
+.nav-links{
+    flex: 1;
+    display: flex;
+    justify-content:space-evenly ;
+
+}
+.active,.btn{
+    color: white;
+}
+.btn{
+    background-color: #17a2b8;
+    box-shadow: 10px 5px 5px rgb(194, 4, 4);
+}
+.li2{
+    color:#9a9a9a ;
+}
